@@ -238,7 +238,7 @@ Admins
 @iwals [Founder]
 @imandaneshi [Developer]
 @Rondoozle [Developer]
-@seyedan25 [Manager]
+HAMON_TP [Manager]
 
 Special thanks to
 awkward_potato
